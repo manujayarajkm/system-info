@@ -1,21 +1,21 @@
 {
   "name": "@manujayaraj/system-info",
   "version": "1.0.1",
-  "description":"tiny package to fetch system information",
+  "description": "tiny package to fetch system information",
   "repository": {
     "type": "git",
     "url": "https://github.com/manujayarajkm/system-info.git",
-    "keywords": ["systeminfo","osinfo","system-info"],
-    "author": "",
-    "license": "ISC",
     "bugs": {
       "url": "https://github.com/manujayarajkm/system-info.git/issues"
     },
     "homepage": "https://github.com/manujayarajkm/system-info"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-    
-  }
+  "keywords": [
+    "systeminfo",
+    "osinfo",
+    "system-info"
+  ],
+  "author": "manujayaraj",
+  "dependencies": {},
+  "devDependencies": {}
 }
