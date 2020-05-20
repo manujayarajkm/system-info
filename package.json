@@ -1,6 +1,6 @@
 {
   "name": "@manujayaraj/system-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tiny package to fetch system information",
   "repository": {
     "type": "git",
