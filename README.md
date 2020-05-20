@@ -1,2 +1,5 @@
 # system-info
-Tiny package to fetch os info
+Tiny package to fetch system  info
+
+
+Available Options
